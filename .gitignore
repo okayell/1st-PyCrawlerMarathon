@@ -1,1 +1,3 @@
-/Data/*
+*.xml
+*.csv
+/.ipynb_checkpoints/*.ipynb
