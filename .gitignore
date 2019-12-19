@@ -4,3 +4,4 @@
 *.PNG
 /homework/.ipynb_checkpoints/*.ipynb
 *.gitignore
+*.exe
