@@ -2,6 +2,8 @@
 *.csv
 *.jpeg
 *.PNG
-*.ipynb
+/*.ipynb
+/.ipynb_checkpoints/*.ipynb
+/Homework/.ipynb_checkpoints/*.ipynb
 *.gitignore
 *.exe
