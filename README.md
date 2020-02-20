@@ -12,7 +12,7 @@
 *  DAY8: 靜態網頁的資料爬蟲策略
 *  DAY9: 圖片下載
 * DAY10: PyQuery/grab
-* DAY11: Regular expression
+* DAY11: Regular Expression
 * DAY12: ETTODAY靜態爬蟲實作練習
 * DAY13: PTT(批踢踢)網路爬蟲實作練習
 * DAY14: Yahoo!電影網頁爬蟲實作練習
