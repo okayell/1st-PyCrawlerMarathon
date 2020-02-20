@@ -1,4 +1,3 @@
-# 1st-PyCrawlerMarathon
 # 第一屆《Python網路爬蟲實戰研習馬拉松》
 ### 爬蟲基礎知識
 *  DAY1: 資料來源與檔案存取
